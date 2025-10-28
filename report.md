@@ -1,16 +1,3 @@
-For this assignment, your job is to pick a coreutil: https://www.gnu.org/software/coreutils/manual/coreutils.html and rewrite it.
-
-In particular, you are to:
-
-Pick a single coreutil
-Rewrite the base (no flag input) functionality without calling the original core util
-Implement 2 flags available on the base core util
-
-
-Your report should be a development log:
-
-
-
 1. What command did you implement?
 I implemented the echo command.
 
