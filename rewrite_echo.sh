@@ -1,3 +1,7 @@
+#!/bin/bash
+
+
+
 # Aaron Cumming
 # 10/27/2025
 # CS 310
